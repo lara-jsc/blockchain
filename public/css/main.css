@@ -2,7 +2,7 @@
     --main-bg-color: #120000;
     --main-bg-color-fade-5: rgba(18, 0, 0, 0.51);
     --primary-color: #ff213c;
-    --primary-shade-color: #d41c32;
+    --primary-shade-color: blue;
     --secundary-color: #57417a;
 
 }
@@ -104,7 +104,7 @@ button {
 }
 
 #main-header {
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: yellow (0, 0, 0, 0.1);
     z-index: 3;
 }
 
