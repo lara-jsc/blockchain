@@ -25,3 +25,10 @@ app.listen(3000, () => {
 // 4. create public folder 
 // 5. drop the html and css files in pub 
 // 6. node app.js 
+
+
+// git init
+// git commit -m ''
+// git status
+// git checkout 
+// git branch 
